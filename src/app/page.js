@@ -1,4 +1,4 @@
-//acts like the parent that manages states (which video to play, play/pause/skip logic)
+//This modal will acts like the parent that manages states (which video to play, play/pause/skip logic)
 "use client";
 // useRef is used for of  reference the video element
 // useState use to store and update the selected video
